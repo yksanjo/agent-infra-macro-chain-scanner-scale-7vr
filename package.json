@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-macro-chain-scanner-scale-7vr",
+  "version": "1.0.0",
+  "description": "Database and storage abstraction layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "macro-chain-scanner-scale-7vr"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-macro-chain-scanner-scale-7vr.git"
+  }
+}
